@@ -7,23 +7,22 @@ The project integrates **ESP32**, **Node-RED**, **MQTT**, and a **custom-designe
 
 ---
 
-## 📜 Table of Contents
-1. [📖 Introduction](#-introduction)
-2. [✨ Features](#-features)
-3. [📚 Course Coverage](#-course-coverage)
-4. [📚 Technologies Used](#-technologies-used)
-5. [📂 Project Structure](#-project-structure)
-6. [🛠 Hardware Components](#-hardware-components)
-7. [💻 Firmware Development](#-firmware-development)
-8. [🌐 IoT Integration](#-iot-integration)
-9. [📦 Installation & Setup](#-installation--setup)
-10. [🖼 Images & Demonstrations](#-images--demonstrations)
-11. [📄 License](#-license)
-12. [🏆 Credits](#-credits)
+##  Table of Contents
+1. [ Introduction](#-introduction)
+2. [ Features](#-features)
+3. [ Learned Things](#-course-coverage)
+4. [ Technologies Used](#-technologies-used)
+6. [ Hardware Components](#-hardware-components)
+7. [ Firmware Development](#-firmware-development)
+8. [ IoT Integration](#-iot-integration)
+9. [ Installation & Setup](#-installation--setup)
+10. [ Images & Demonstrations](#-images--demonstrations)
+11. [ License](#-license)
+12. [ Credits](#-credits)
 
 ---
 
-## 📖 Introduction
+##  Introduction
 
 This project demonstrates the **complete product development cycle** for an IoT consumer product — from **conceptualization** to **final working prototype**.  
 The **Smart Power Monitor** measures power usage, sends data to a dashboard, and provides a **real-time IoT interface** using Node-RED and MQTT.
@@ -38,7 +37,7 @@ It was developed as part of a comprehensive hands-on training program covering:
 
 ---
 
-## ✨ Features
+##  Features
 - **Custom PCB** with optimized schematic & layout
 - **ESP32 firmware** for real-time data acquisition
 - **IoT-enabled dashboard** with Node-RED & MQTT
@@ -48,7 +47,7 @@ It was developed as part of a comprehensive hands-on training program covering:
 
 ---
 
-## 📚 Course Coverage
+## 📚 Learned Things
 This project was developed as part of a professional course covering the following:
 
 ### Topics:
@@ -79,5 +78,7 @@ This project was developed as part of a professional course covering the followi
 - **Assembly:** Through-hole & SMT soldering
 
 ---
+
+## 
 
 
