@@ -15,7 +15,7 @@ The project integrates **ESP32**, **Node-RED**, **MQTT**, and a **custom-designe
 5. [Hardware Components](#hardware-components)
 6. [Firmware Development](#firmware-development)
 7. [IoT Integration](#iot-integration)
-8. [Images](#images)
+
 
 ---
 
@@ -146,19 +146,13 @@ The Smart Power Monitor utilizes **Node-RED** for IoT data processing, visualiza
 4. **Alerts & Automation:**  
    Node-RED flows can be extended to trigger alerts or perform automated actions based on thresholds or specific conditions.
 
-### System Diagram
 
-```mermaid
-graph LR
-    ESP32 -->|MQTT Publish| MQTT_Broker
-    MQTT_Broker -->|MQTT Subscribe| NodeRED
-    NodeRED --> Dashboard
-
-
-## Images
 
 ![PCB Layout](img/4.jpeg)
+
 ![Product](img/1.jpeg)
+
 ![Product](img/2.jpeg)
+
 ![Product](img/3.jpeg)
 
