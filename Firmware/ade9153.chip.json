@@ -1,0 +1,14 @@
+{
+  "name": "ADE9153A",
+  "author": "Uri Shaked",
+  "pins": [
+    "MOSI",
+    "MISO",
+    "SCK",
+    "STATE",
+    "CS",
+    "GND",
+    "VCC",
+    ""
+  ]
+}
